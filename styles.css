@@ -1,48 +1,47 @@
-*{
-    font-family:   Verdana, Helvetica, Arial, sans-serif;
-    font-size: 26px;
-    margin: 28px 25px;
-    background: rgb(224, 239, 253);
+* {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 26px;
+  margin: 28px 25px;
+  background: rgb(224, 239, 253);
 }
-.card{
-    background: #a3cef1;
-    color: #00296b;
-    border-bottom: 12px solid #5a189a;
-    width: 710px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-around;
-    text-align: center;
+.card {
+  background: #a3cef1;
+  color: #00296b;
+  border-bottom: 12px solid #5a189a;
+  width: 710px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
 }
-.avatar{
-    width: 200px;
-    transition: box-shadow 0.3s ease;
-
+.avatar {
+  width: 200px;
+  transition: box-shadow 0.3s ease;
 }
-.avatar:hover{
-    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+.avatar:hover {
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
 }
-.name{
-    transition: text-shadow 0.3s ease;
-    background-color: #a3cef1;
+.name {
+  transition: text-shadow 0.3s ease;
+  background-color: #a3cef1;
 }
-.name:hover{
-    text-shadow: 5px 5px 14px rgba(0, 0, 0, 0.5);
+.name:hover {
+  text-shadow: 5px 5px 14px rgba(0, 0, 0, 0.5);
 }
-.info{
-    transition: text-shadow 0.3s ease;
-    background-color: #a3cef1;
+.info {
+  transition: text-shadow 0.3s ease;
+  background-color: #a3cef1;
 }
-.info:hover{
-    text-shadow: 5px 5px 14px rgba(0, 0, 0, 0.5);
+.info:hover {
+  text-shadow: 5px 5px 14px rgba(0, 0, 0, 0.5);
 }
-.place{
-    transition: text-shadow 0.3s ease;
-    background-color: #a3cef1;
+.place {
+  transition: text-shadow 0.3s ease;
+  background-color: #a3cef1;
 }
-.place:hover{
-    text-shadow: 5px 5px 14px rgba(0, 0, 0, 0.5);
+.place:hover {
+  text-shadow: 5px 5px 14px rgba(0, 0, 0, 0.5);
 }
-.details{
-    background-color: #a3cef1;
+.details {
+  background-color: #a3cef1;
 }
